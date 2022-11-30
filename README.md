@@ -20,7 +20,9 @@ As of version 0.1, STEG supports the following content / payload types:
 These arguments can repeat multiple times to encode multiple files or text snippets.
 Use the `pack` and `unpack` actions to move data respectively.
 
-Image channel usage and order, as well as the number of bits used to encode data can be configured. See `steg.py -h` for details.
+Image channel usage and order, as well as the number of bits used to encode data can be configured. 
+
+See `steg.py -h` for details.
 
 **Encoding / Packing Example**
 
